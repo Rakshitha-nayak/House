@@ -1,8 +1,14 @@
 # Mi_Casa
-This application is an approach which let house owners to make a placement to the internet for their house rent advertisement, let renter those who basically looking for houses can rent a house by finding through this app. 
+Android mobile application for the searching apartments and houses as a renter and posting the ad as an owner and communication with each other. 
+
+# Objectives
+1. Can search for a home, apartment, room for rent with free of cost.
+2. Give many options to find a suitable place.
+3. A house owner can easily find tenants.
+4. Show explanation of houses and owners every detail on the details links.
+5. Make a platform for selling or renting houses for both owner and customer.
 
 # Library Uses
-
 1. Firebase
 
 # Setup
